@@ -1,0 +1,15 @@
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 15px !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Kullanıcı bilgilerini gösteren bölüm için padding ekler. */
+.userInfo {
+  padding: 20px !important;
+}
+/* Kullanıcı bilgileri için kullanılan başlıklar arasındaki boşlukları ayarlar. */
+.userInfo h4,
+h5 {
+  margin: 10px auto !important;
+}
